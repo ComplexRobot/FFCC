@@ -43,10 +43,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="Code\CommonIncludes.h" />
-    <ClInclude Include="Code\Errors.h" />
+    <ClInclude Include="Code\Debug.h" />
+    <ClInclude Include="Code\Menu.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Code\Main.cpp" />
+    <ClCompile Include="Code\Menu.cpp" />
     <ClCompile Include="Code\PrecompileHeader.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
     </ClCompile>

@@ -5,5 +5,6 @@
 #include <thread>
 #include <mutex>
 #include <cstdlib>
+#include <string>
 
-#include "Errors.h"
+#include "Debug.h"

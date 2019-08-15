@@ -1,0 +1,14 @@
+*.exe
+/*.ilk
+/*.pdb
+/*.user
+/Compilation/*.log
+/.vs/FFCC/v15/*.db
+*.suo
+*.opendb
+*.ipch
+*.pch
+*.tlog
+*.obj
+*.idb
+*.pdb
